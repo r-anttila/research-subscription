@@ -1,1 +1,3 @@
-# research-subscription
+# Research Subscription
+
+Thank you to arXiv for use of its open access interoperability.
